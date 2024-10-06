@@ -1,0 +1,67 @@
+.fondo{
+    background-image: url(https://th.bing.com/th/id/R.7213c256231cacf5c1475896f44833ac?rik=%2b80joocrmBd1dw&pid=ImgRaw&r=0&sres=1&sresct=1);
+}
+
+.mazo{
+    width: 550px;
+}
+
+.jav{
+    position: absolute;
+    width: 400px;
+    top: 550px;
+}
+
+.str{
+    width: 500px;
+}
+
+.gma{
+    background-color: gray;
+    scrollbar-shadow-color: black;
+    position: absolute;
+    right: 25px;
+    top: 15px;
+}
+
+.hitted{
+    position: absolute;
+    top: 250px ;
+    right: 75px;
+}
+
+.perrito{
+    position: absolute;
+    top: 250px;
+    right: 150px;
+}
+
+.op{
+    width: 300px;
+}
+
+.opti{
+    background-color: gray;
+    scrollbar-shadow-color: black;
+    position: absolute;
+    right: 15px;
+    top: 550px;
+    width: 350px;
+    height: 100px;
+}
+
+.bonk{
+    position: absolute;
+    width: 450px;
+    top: 250px;
+    right: 200px;
+}
+
+.score{
+    width: 300px;
+}
+
+.futura{
+    color: white;
+    font-style: italic;
+}

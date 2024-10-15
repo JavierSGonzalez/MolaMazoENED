@@ -1,0 +1,13 @@
+.bagr {
+    background-image: url(imagenes/baim.jpg) ;
+}
+
+.cl {
+    font-style: italic;
+    color: white;
+}
+
+.position {
+    display: flex;
+    justify-content: space-around;
+}

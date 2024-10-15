@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-image: url(imagenes/home.png) ;
+    background-position: unset;
+    height: 100px;
+}
+
+#status {
+    width: 100%;
+    text-align: start;
+    position: absolute;
+    font-size: 3rem;
+}
+
+#game {
+    width: 100vw;
+    height: 100vw;
+    position: relative;
+}
+
+.zombi {
+    width: 500px;
+    height: 200px;
+    background:url(imagenes/pngwing.com.png) ;
+    background-size: contain;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+.zombi.hit {
+    background-image: url(imagenes/sad.webp) ;
+}
+
+.zombi-dissapear {
+    opacity: 0;
+    transition: opacity 0.2s;
+}
